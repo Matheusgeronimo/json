@@ -1,0 +1,13 @@
+{
+"nome":"Vitor" ,
+"sobrenome":"Tim maia",
+"idade":"98",
+"email":"reidaslolis13@hotmail.com",
+"telefones":"(75)9 7753123",
+"notas":{
+    "trimestre1": 5.5,
+    "trimestre2": 8.5,
+    "trimestre3": 7.5
+}
+
+} 
